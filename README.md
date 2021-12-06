@@ -1,4 +1,4 @@
-## Hi, I am xiaoming-Li!👋
+## Hi, I am xiao-Li!👋
 
 ### A web developer from China.
 
