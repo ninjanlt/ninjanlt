@@ -3,10 +3,10 @@
 ### A web developer from China.
 
 <p>
-  <img width="400px" height="180px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lxmob&count_private=true&show_icons=true"/>
+  <img width="400px" height="180px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ninjanlt&count_private=true&show_icons=true"/>
 </p>
 <p>
-  <img width="400px" height="180px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmob&layout=compact"/>
+  <img width="400px" height="180px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjanlt&layout=compact"/>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
